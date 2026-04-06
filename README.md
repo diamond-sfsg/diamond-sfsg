@@ -63,6 +63,7 @@ I build **data and AI systems that turn complex data into actionable business in
 🔗 Project Repo: [https://github.com/TamarakareB/sec-edgar-pipeline-FinsightAI-.git]
 🔗 Project Overview: [https://www.linkedin.com/posts/ruofankate0342b4225_nlp-fintech-rag-activity-7441261714916098048-kw0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADh2figBZvGgN7KfCmFFJ7jfLeA_l65OWQo
 ]
+
 ---
 
 ### 🧩 Purpose-Driven Business Capstone
