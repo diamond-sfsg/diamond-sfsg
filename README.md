@@ -3,7 +3,7 @@
 **MS in Business Analytics @ UC Irvine (Expected Aug 2026)**
 Interested in **Data Analytics, Product Analytics, and AI-driven Decision Systems**
 
-📄 [Download Resume](./resume/Ruofan_Yang_Resume.pdf)
+📄 [Download Resume](https://drive.google.com/file/d/15ZpteiWjLh5UM4ntijw6KZmo2vTeWk7R/view?usp=sharing)
 🔗 [LinkedIn](https://linkedin.com/in/ruofankate0342b4225)
 📧 [ruofay3@uci.edu](mailto:ruofay3@uci.edu)
 
