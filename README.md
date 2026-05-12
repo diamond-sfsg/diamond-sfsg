@@ -21,6 +21,18 @@ I build **data and AI systems that turn complex data into actionable business in
 
 ## 🚀 Featured Projects
 
+### 🌳 High-Income Potential Prediction (Decision Tree & Random Forest)
+
+Tree-based classification project for predicting high-income potential using 2024 CPS ASEC data
+
+- Led the Decision Tree and Random Forest modeling workflow
+- Built baseline Decision Tree models and tested preprocessing strategies for categorical variables
+- Applied pre-pruning and post-pruning to control overfitting and improve generalization
+- Tuned Random Forest hyperparameters such as tree depth and number of estimators
+- Interpreted feature importance to explain nonlinear income drivers such as education, working hours, and age
+
+🔗 Project Repo: [ML-course](https://github.com/diamond-sfsg/Machinelearning.git)
+
 ### 🧠 EY Water Quality Prediction (Machine Learning)
 
 **End-to-end ML pipeline for environmental prediction across unseen regions**
@@ -53,7 +65,7 @@ I build **data and AI systems that turn complex data into actionable business in
 
 **KPI-style dashboard enhanced with LLM-generated insights**
 
-* Built dashboard using financial market data (simulating business KPIs)
+* Built a dashboard using financial market data (simulating business KPIs)
 * Tracked metrics like returns, volatility, and sector performance
 * Integrated LLM to:
 
@@ -71,7 +83,7 @@ I build **data and AI systems that turn complex data into actionable business in
 
 **Framework to quantify corporate purpose and its impact on performance**
 
-* Designed multi-dimensional rubric system for “purpose” measurement
+* Designed a multi-dimensional rubric system for “purpose” measurement
 * Applied text analytics + LLM scoring on corporate disclosures
 * Explored dimension reduction (PCA vs evidence schema)
 * Connected qualitative narratives to quantitative business outcomes
