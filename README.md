@@ -63,25 +63,7 @@ Tree-based classification project for predicting high-income potential using 202
 
 ---
 
-### 📊 AI-Powered Market Intelligence Dashboard
-
-**KPI-style dashboard enhanced with LLM-generated insights**
-
-* Built a dashboard using financial market data (simulating business KPIs)
-* Tracked metrics like returns, volatility, and sector performance
-* Integrated LLM to:
-
-  * Explain metric changes
-  * Generate weekly summaries
-  * Support natural language queries
-
-🔗 Project Repo:
-
-🔗 Project Overview: 
-
----
-
-### 🧩 Purpose-Driven Business Capstone
+### 🧩 Purpose-Driven Business Capstone (In Progress)
 
 **Framework to quantify corporate purpose and its impact on performance**
 
@@ -90,7 +72,7 @@ Tree-based classification project for predicting high-income potential using 202
 * Explored dimension reduction (PCA vs evidence schema)
 * Connected qualitative narratives to quantitative business outcomes
 
-🔗 Project Repo: [Link]
+🔗 Project Repo: [PeterPAN](https://github.com/diamond-sfsg/Capstone_PAN0.1.git)
 
 ---
 
