@@ -33,6 +33,8 @@ Tree-based classification project for predicting high-income potential using 202
 
 🔗 Project Repo: [ML-course](https://github.com/diamond-sfsg/Machinelearning.git)
 
+---
+
 ### 🧠 EY Water Quality Prediction (Machine Learning)
 
 **End-to-end ML pipeline for environmental prediction across unseen regions**
