@@ -73,7 +73,9 @@ Tree-based classification project for predicting high-income potential using 202
 * Connected qualitative narratives to quantitative business outcomes
 
 🔗 Project Repo: [Capstone](https://github.com/diamond-sfsg/Capstone_PAN0.1.git)
+
 🔗 Project Overview:[Capstone](https://www.linkedin.com/pulse/can-we-actually-measure-companys-sense-purpose-data-ruofan-yang-p3v4c)
+
 ---
 
 ## 🛠️ Skills
